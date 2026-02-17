@@ -328,8 +328,8 @@ body {
 ========================= */
 .image-glow-wrapper {
   position: relative;
-  width: 150px;
-  height: 210px;
+  width: 100px;
+  height: 160px;
   border-radius: 50%;
 }
 
@@ -900,4 +900,5 @@ body {
     font-size: 14px;
   }
 }
+
 
